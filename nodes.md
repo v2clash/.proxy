@@ -7,7 +7,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/v2clash/.prox
 |:---------:|:---------:|:-------------:|-----|
 | ✅ | 51 | 4h |https://raw.githubusercontent.com/wrfree/free/main/README.md|
 | ✅ | 295 | 1d |https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/README.md|
-| ✅ | 4889 | 12h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge_base64.txt|
+| ✅ | 4896 | 12h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge_base64.txt|
 | ✅ | 200 | 12h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/Eternity|
 | ✅ | 61 |2h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/airport_merge_base64.txt|
 | ✅ | 61 |2h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/EternityAir|
