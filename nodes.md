@@ -12,7 +12,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/v2clash/.prox
 | ✅ | 61 |2h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/airport_merge_base64.txt|
 | ✅ | 61 |2h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/EternityAir|
 | ✅ | 15 | 4h |https://raw.githubusercontent.com/freefq/free/master/v2|
-| ✅ | 361 | 8h |https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray|
+| ✅ | 373 | 8h |https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray|
 | ✅ | 906 | 1d |https://raw.githubusercontent.com/AlienVPN402/AlienVPN402-subscribe-servers-sing-box/main/index.html|
 | ✅ | 136 | 1d |https://raw.githubusercontent.com/LonUp/NodeList/main/V2RAY/Latest_base64.txt|
 | ✅ | 548 | 3h |https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num|
